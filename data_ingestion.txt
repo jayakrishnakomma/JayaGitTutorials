@@ -4,3 +4,5 @@ Update from master branch
 
 Just checking file from branch 2 again.
 I am rebase 2 example
+
+Bug fixed from main branch
